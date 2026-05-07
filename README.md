@@ -1,6 +1,6 @@
 # SFF : Split Federated Finetuning
 
-SFF builds upon the foundation of [SPLITFM]([https://github.com/microsoft/LoRA](https://github.com/FDU-INC/SplitFM) to enable privacy-preserving, parameter-efficient fine-tuning of foundation models. We introduce significant enhancements to support **heterogeneous client environments** and **Federated aggregation strategies**.
+SFF builds upon the foundation of [SPLITFM](https://github.com/FDU-INC/SplitFM) to enable privacy-preserving, parameter-efficient fine-tuning of foundation models. We introduce significant enhancements to support **heterogeneous client environments** and **Federated aggregation strategies**.
 
 **Key Contributions:**
 
